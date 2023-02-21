@@ -1,2 +1,2 @@
-# snarf
-A Helm Chart
+# charts
+A collection of Helm charts
